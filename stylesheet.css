@@ -466,7 +466,9 @@ section {
         stroke-width: -1;
     }
 }
-.path{}
+.path{
+    stroke-width: 10;
+}
 
 
 
